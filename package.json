@@ -1,7 +1,7 @@
 {
   "name": "01-github-explore",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.tsx",
   "author": "Laercio Santos <laerciosantosn@gmail.com>",
   "license": "MIT",
   "scripts": {
